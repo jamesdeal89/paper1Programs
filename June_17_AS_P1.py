@@ -1,4 +1,4 @@
-# program file from CS paper 1 June 2017 AS 
+# program file from CS paper 1 June 2017 AS AQA
 
 number1 = int(input("enter a whole number:"))
 number2 = int(input("enter another whole number:"))

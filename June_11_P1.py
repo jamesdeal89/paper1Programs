@@ -1,4 +1,4 @@
-# code for Q7 June 2011 CS Paper 1 CIE
+# code for Q7 June 2011 CS Paper 1 AQA
 
 names = ["Ben", "Thor", "Zoe", "Kate"]
 current = 0

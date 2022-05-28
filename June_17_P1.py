@@ -1,4 +1,4 @@
-# program code from CS paper 1 June 2017
+# program code from CS paper 1 June 2017 AQA
 
 plain = input("What is your plaintext?")
 RLE = ""

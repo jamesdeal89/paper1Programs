@@ -1,4 +1,4 @@
-# code for paper 1 AS June 2016
+# code for paper 1 AS June 2016 AQA
 value = int(input("Enter integer (0-99):"))
 operation = input("Calculate additive or multiplicative persistance? (a or m)?")
 count = 0
